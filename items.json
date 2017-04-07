@@ -1,0 +1,28 @@
+{
+  "items": {
+    "item": [
+      {
+        "name": "Notebook",
+        "producer": "HP",
+        "price": "450.50",
+        "category-list": {
+          "category": [
+            "Work",
+            "Entertainment"
+          ]
+        }
+      },
+      {
+        "name": "Smart phone",
+        "producer": "Samsung",
+        "price": "150.50",
+        "category-list": {
+          "category": [
+            "Work",
+            "Entertainment"
+          ]
+        }
+      }
+    ]
+  }
+}

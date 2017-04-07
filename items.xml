@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<root>
+
+    <h:table xmlns:h="http://www.w3.org/TR/html4/">
+        <h:tr>
+            <h:td>Apples</h:td>
+            <h:td>Bananas</h:td>
+        </h:tr>
+    </h:table>
+
+    <f:table xmlns:f="http://www.w3schools.com/furniture">
+        <f:name>African Coffee Table</f:name>
+        <f:width>&amp;80</f:width>
+        <f:length>&quot;120&quot;</f:length>
+    </f:table>
+
+    <!--<h:table xmlns:h="http://www.w3.org/TR/html4/">-->
+        <!--<h:tr>-->
+            <!--<h:td>Apples comm</h:td>-->
+            <!--<h:td>Bananas comm</h:td>-->
+        <!--</h:tr>-->
+    <!--</h:table>-->
+
+
+</root>
